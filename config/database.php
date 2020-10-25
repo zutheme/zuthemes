@@ -686,7 +686,7 @@ return [
 
 
 
-            'host' => env('DB_HOST', '127.0.0.1'),
+            'host' => env('DB_HOST','45.117.168.156'),
 
 
 
@@ -718,7 +718,7 @@ return [
 
 
 
-            'database' => env('DB_DATABASE', 'dbdichvu'),
+            'database' => env('DB_DATABASE', 'zutheme_db'),
 
 
 
@@ -734,7 +734,7 @@ return [
 
 
 
-            'username' => env('DB_USERNAME', 'root'),
+            'username' => env('DB_USERNAME', 'zutheme_db'),
 
 
 
@@ -750,7 +750,7 @@ return [
 
 
 
-            'password' => env('DB_PASSWORD', 'root'),
+            'password' => env('DB_PASSWORD', 'Cei1mMQKF'),
 
 
 
@@ -926,7 +926,7 @@ return [
 
 
 
-            'host' => env('DB_HOST', '127.0.0.1'),
+            'host' => env('DB_HOST','45.117.168.156'),
 
 
 
@@ -958,7 +958,7 @@ return [
 
 
 
-            'database' => env('DB_DATABASE', 'dbdichvu'),
+            'database' => env('DB_DATABASE', 'zutheme_db'),
 
 
 
@@ -974,7 +974,7 @@ return [
 
 
 
-            'username' => env('DB_USERNAME', 'root'),
+            'username' => env('DB_USERNAME', 'zutheme_db'),
 
 
 
@@ -990,7 +990,7 @@ return [
 
 
 
-            'password' => env('DB_PASSWORD', 'root'),
+            'password' => env('DB_PASSWORD', 'zutheme_db'),
 
 
 
